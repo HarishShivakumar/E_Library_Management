@@ -1,4 +1,4 @@
-  <h3 align="center"><b>E-Online Library Management System</b></h3>
+<h3><b>E-Online Library Management System</b></h3>
 
 E-Library Management, a web app made in Django, is an E-library management system created as an at ease management of operations of small scaled libraries.
 
@@ -36,15 +36,9 @@ E-Library Management is an application which refers to library systems which are
 - Search student by student ID, view student details
 - Change/recover own password
 
-# How To Run The Project?
-
-To run this project, you must have installed <a href= "https://www.python.org/" target="_blank">Python</a> on your PC. After downloading the project, follow the steps below:
-
-Step-1: Extract/unzip the file
-
-Step-2: Go inside the project folder, open cmd and type the following commands to install Django Framework and run the webserver:
+#Run
 
         pip install -r requirements.txt
         python manage.py runserver
 
-Step-3: Finally, open the browser and go to localhost:8000
+Open the browser and go to localhost:8000
